@@ -461,7 +461,7 @@
                             <td height="80" style="background: url(${ctx}/login/login_title.png) repeat-x;">
                                 <div
                                     style="font-size:20px;line-height: 50px;font-family: '微软雅黑', '黑体';text-align: center;color: #000;margin-bottom: 50px">
-                                    登录系统
+                                    登录系统（二次开发）
                                 </div>
                             </td>
                         </tr>
